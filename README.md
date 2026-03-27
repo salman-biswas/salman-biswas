@@ -3,8 +3,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... development
-- 🌱 I’m currently learning ... uiux dwesign
+- 🔭 I’m currently working on ... portfolio website development
+- 🌱 I’m currently learning ... UI/UX design
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
