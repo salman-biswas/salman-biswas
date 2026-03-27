@@ -36,8 +36,13 @@
 
 <br clear="both">
 
-![Pacman Animation](https://raw.githubusercontent.com/salman-biswas/salman-biswas/output/github-snake.svg)
-###
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+</picture>
+
+## 🎮 Features
 
 <p align="center">Connect with me</p>
 
