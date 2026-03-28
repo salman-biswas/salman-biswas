@@ -10,7 +10,7 @@
 
 ###
 
-<p align="center">✨ Passionate about building interactive websites<br>📚 Currently exploring advanced Webflow features and AI-assisted JavaScript<br>🎯 Goals: Build intuitive UI/UX designs and fully functional, interactive websites<br>🎲Fun fact: I create interactive experiences using AI-assisted JavaScrip</p>
+<p align="center">✨ Passionate about building interactive websites<br>📚 Currently exploring advanced Webflow features and AI-assisted JavaScript<br>🎯 Goals: Build intuitive UI/UX designs and fully functional, interactive websites<br>🎲Fun fact: I create interactive experiences using AI-assisted JavaScript </p>
 
 ###
 
