@@ -1,66 +1,64 @@
-<h1 align="center">Hi, 👋 I'm Salman</h1>
+<h1 data-importer="text" align="center">Hey 👋 What's up?</h1>
 
 ###
 
-<p align="center">UI/UX designer focused on building clean and interactive web experiences.</p>
+<p data-importer="text" align="center">My name is Salman and I'm a UI Designer transitioning into Frontend Development, from Bangladesh.</p>
 
 ###
 
-<h2 align="center">📝 About Me:</h2>
+<h2 data-importer="text" align="left">About me</h2>
 
 ###
 
-<p align="center">✨ Passionate about building interactive websites<br>📚 Currently exploring advanced Webflow features and AI-assisted JavaScript<br>🎯 Goals: Build intuitive UI/UX designs and fully functional, interactive websites<br>🎲Fun fact: I create interactive experiences using AI-assisted JavaScript </p>
+<p data-importer="text" align="left">I started my journey in UI/UX design, spending countless hours obsessing over spacing, color, and the tiny details that make an interface feel right. Somewhere along the way, I got tired of just imagining how things would work and started wondering — what if I could build it myself?<br>That curiosity pulled me into frontend development. Now I'm learning HTML, CSS, JavaScript, and React — not to abandon design, but to become someone who can carry an idea all the way from a Figma mockup to a live, working product. I believe the best interfaces come from people who understand both how something looks and how something works.</p>
 
 ###
 
-<h2 align="center">Tools & Technologies:</h2>
+<h2 data-importer="text" align="left">I code with</h2>
 
 ###
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="42" alt="figma logo"  />
+<div data-importer="techs" align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="notion logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=webflow" height="42" alt="webflow logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="42" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="42" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="supabase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
 </div>
 
 ###
 
-<p align="left">Hello World!</p>
+<div data-importer="image" align="center">
+  <img data-importer="image" height="200" src=""  />
+</div>
 
 ###
 
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
-</picture>
-
-## 🎮 Features
-
-<p align="center">Connect with me</p>
-
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/public-profile/settings/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact_info%3BwUJKlvFMSRmzs%2B6J%2BH%2BM2Q%3D%3D" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="54" height="42" alt="linkedin logo"  />
-  </a>
-  <a href="[salmanbiswas_x](https://x.com/salmanbiswas_x)" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="54" height="42" alt="twitter logo"  />
-  </a>
-  <a href="https://www.instagram.com/salmanbiswas_ux?igsh=OTZkbGJjeXo3am9u" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="54" height="42" alt="instagram logo"  />
-  </a>
-  <a href="https://www.behance.net/salmanbiswas1" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/behance/default.svg" width="54" height="42" alt="behance logo"  />
-  </a>
+<div data-importer="socials" align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
 </div>
 
 ###
