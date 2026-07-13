@@ -2,7 +2,7 @@
 
 ###
 
-<p data-importer="text" align="center">My name is Salman and I'm a UI Designer transitioning into Frontend Development, from Bangladesh.</p>
+<p data-importer="text" align="center">My name is Salman and I'm a UIUX Designer transitioning into Frontend Development, from Bangladesh.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p data-importer="text" align="left">I started my journey in UI/UX design, spending countless hours obsessing over spacing, color, and the tiny details that make an interface feel right. Somewhere along the way, I got tired of just imagining how things would work and started wondering — what if I could build it myself?<br>That curiosity pulled me into frontend development. Now I'm learning HTML, CSS, JavaScript, and React — not to abandon design, but to become someone who can carry an idea all the way from a Figma mockup to a live, working product. I believe the best interfaces come from people who understand both how something looks and how something works.</p>
+<p data-importer="text" align="left">I started my journey in UI/UX design, spending countless hours obsessing over spacing, color, and the tiny details that make an interface feel right. Somewhere along the way, I got tired of just imagining how things would work and started wondering — what if I could build it myself?<br>That curiosity pulled me into frontend development. — not to abandon design, I want to become someone who can carry an idea all the way from a Figma to a live, working product. I believe the best interfaces come from people who understand both how something looks and how something works.</p>
 
 ###
 
